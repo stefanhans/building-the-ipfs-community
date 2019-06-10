@@ -1,13 +1,6 @@
-### 101 IPFS Workshop
+### Building the IPFS Community
 
-![global_systems_at_hand](assets/image/global_systems_at_hand.jpg)
-
----
-
-### Introduction
-
-- Concepts
-- IPFS, ProtoSchool
+![global_systems_at_hand](assets/image/work-for-hcs.png)
 
 ---
 
@@ -30,14 +23,52 @@ Feature: Online Tutorials for Go developer using ```present``` ([issue](https://
 
 ---
 
-### Discussion
+### The Cooperation Triangle
 
-- Impressions
-- Problems and questions
-- Ideas and issues
+- Motivation
+- Competence
+- Community
 
 ---
 
-### Panel
+### Motivation
 
-- What's next?
+From Curious to Professional
+
+- come as you are
+- work on your ideas
+- make your living with passion
+
+---
+
+### Competence
+
+From 101 to Product Development
+
+- "The journey of a thousand miles begins with one step." - Lao Tzu
+- T-shaped skills
+- support by Protocol Labs
+- community of persons, companies, and communities
+
+---
+
+### Community
+
+- community starts with yourself
+- be open and stay focused
+- persons, companies, and communities
+
+---
+
+### Discussion
+
+- Impressions
+- Questions
+
+---
+
+### What's next?
+
+- ideas and issues
+- continue in groups
+- get together for the results

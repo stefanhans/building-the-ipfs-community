@@ -1,6 +1,6 @@
 ### Building the IPFS Community
 
-![global_systems_at_hand](assets/image/work-for-hcs.png)
+![human_cooperation_singularity](assets/image/work-for-hcs.png)
 
 ---
 
@@ -45,7 +45,7 @@ From Curious to Professional
 
 From 101 to Product Development
 
-- "The journey of a thousand miles begins with one step." - Lao Tzu
+- "The journey ... begins with one step." - Lao Tzu
 - T-shaped skills
 - support by Protocol Labs
 - community of persons, companies, and communities

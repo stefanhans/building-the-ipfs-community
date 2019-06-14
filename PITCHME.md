@@ -45,10 +45,10 @@ From Curious to Professional
 
 From 101 to Product Development
 
-- "The journey ... begins with one step." - Lao Tzu
+- "The journey ... begins with one step."
 - T-shaped skills
 - support by Protocol Labs
-- community of persons, companies, and communities
+- community of persons, companies,<br>and communities
 
 ---
 
